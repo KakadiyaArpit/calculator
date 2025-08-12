@@ -15,12 +15,6 @@ This app provides a smooth, intuitive, and responsive experience for performing 
 
 📸 Screenshots
 
-* Dark Mode
-  ![cal1](https://github.com/user-attachments/assets/91b98b76-bfa7-4d32-89c2-900e7121e722) 
-
-* Light Mode
-  ![cal2](https://github.com/user-attachments/assets/8ddb0bf8-10a7-46d5-842a-5f4caa23569a)
-
 <h3 align="center">Dark Mode</h3>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/91b98b76-bfa7-4d32-89c2-900e7121e722" alt="Dark Mode" width="300">
