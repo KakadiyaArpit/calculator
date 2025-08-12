@@ -13,16 +13,16 @@ This app provides a smooth, intuitive, and responsive experience for performing 
 
 ⚡ Fast and smooth performance
 
-📸 Screenshots
+<h1 align="center">📸 Screenshots</h1>
 
-<h3 align="center">Dark Mode</h3>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/91b98b76-bfa7-4d32-89c2-900e7121e722" alt="Dark Mode" width="300">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/8ddb0bf8-10a7-46d5-842a-5f4caa23569a" alt="Light Mode" width="300">
 </p>
 
-<h3 align="center">Light Mode</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8ddb0bf8-10a7-46d5-842a-5f4caa23569a" alt="Light Mode" width="300">
+  <b>Dark Mode</b> &nbsp;&nbsp;&nbsp; <b>Light Mode</b>
 </p>
 
 📜 License
